@@ -175,8 +175,3 @@ cython_debug/
 .idea
 /.idea/
 .idea/
-/app/images/
-
-.env
-.env/
-/.env/
